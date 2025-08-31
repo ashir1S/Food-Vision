@@ -27,7 +27,7 @@ The model demonstrates strong performance on the Food-101 benchmark:
 
 The trained model has been deployed as an interactive demo using Gradio.
 
-* **Hugging Face Space:** [https://huggingface.co/spaces/Ashirwad12/Food-101-Classifier](https://huggingface.co/spaces/Ashirwad12/Food-101-Classifier)
+* **Hugging Face Space:** [https://huggingface.co/spaces/Ashirwad12/Food-101-Classifier](https://huggingface.co/spaces/Ashirwad12/food-vision)
 * **Gradio Integration:** Provides an upload interface to test predictions directly in the browser.
 
 ## How to Run Locally
