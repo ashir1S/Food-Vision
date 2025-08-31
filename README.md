@@ -2,7 +2,7 @@
 
 This project is a Food Image Classifier built using PyTorch and deployed as a Gradio web application on Hugging Face Spaces. The model is trained on the Food-101 dataset, which consists of 101 different food categories.
 
-![A user uploading an image to the Food vision web app](https://github.com/ashir1S/Dog-Breed-Classifier/blob/main/demo/img.png)
+![A user uploading an image to the Food vision web app](https://github.com/ashir1S/Food-Vision/blob/main/demo/img.png)
 
 ## Model Architecture
 
